@@ -1,11 +1,18 @@
 <p align="center">
   <picture>
     <!-- 다크 모드일 때 흰색 로고 -->
-    <source srcset="[logo-white.png](https://raw.githubusercontent.com/PathFinder-2025/resources/refs/heads/main/path-finder-logo-white.png)" media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://raw.githubusercontent.com/PathFinder-2025/resources/main/path-finder-logo-white.png"
+      media="(prefers-color-scheme: dark)" />
     <!-- 라이트 모드일 때 검은색 로고 -->
-    <source srcset="[logo-black.png](https://raw.githubusercontent.com/PathFinder-2025/resources/refs/heads/main/path-finder-logo-black.png)" media="(prefers-color-scheme: light)" />
-    <!-- 브라우저가 picture 태그를 지원하지 않을 때 기본 -->
-    <img src="[logo-white.png](https://raw.githubusercontent.com/PathFinder-2025/resources/refs/heads/main/path-finder-logo-white.png)" alt="Path Finder Logo" width="200" />
+    <source
+      srcset="https://raw.githubusercontent.com/PathFinder-2025/resources/main/path-finder-logo-black.png"
+      media="(prefers-color-scheme: light)" />
+    <!-- picture 태그 미지원 브라우저용 fallback -->
+    <img
+      src="https://raw.githubusercontent.com/PathFinder-2025/resources/main/path-finder-logo-black.png"
+      alt="Path Finder Logo"
+      width="200" />
   </picture>
 </p>
 
