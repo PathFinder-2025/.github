@@ -27,6 +27,7 @@
 Path Finder는 사용자가 **여행 도시**, **여행 기간**, **여행 테마**를 선택하면  
 관광지 추천과 자동 여행 일정 수립을 지원하는 웹 서비스입니다.
 
+[![영상 제목](https://i.ytimg.com/an_webp/zj-pUPFEg_Q/mqdefault_6s.webp?du=3000&sqp=CJik0sEG&rs=AOn4CLCFhGy6WSOzIyc1k7hwM5OlLX-xuA)](https://www.youtube.com/watch?v=zj-pUPFEg_Q)
 ---
 
 ## ✨ 주요 기능
